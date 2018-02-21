@@ -1,7 +1,7 @@
 # vue-loader-transformtorequire-demo
 
 This is a demo project for an issue where vue-loaer v14.1.0 breaks the `transformToRequire` config option.
-See: *adding Github issue later*
+See: [vue-loader#1171](https://github.com/vuejs/vue-loader/issues/1171)
 
 > A Vue.js project
 
